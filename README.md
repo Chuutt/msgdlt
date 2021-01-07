@@ -1,5 +1,5 @@
-# tgcleaner
-Telegram message cleaner
+# Telegram group message cleaner
+Deletes all your messages from the groups you select 
 Python 3.7+
 
 ## Installation
